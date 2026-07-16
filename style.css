@@ -88,3 +88,32 @@ p {
     color: #71717a;
     margin-top: 8px;
 }
+
+.github-social-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    color: #a1a1aa;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    padding: 8px 16px;
+    border-radius: 20px;
+    border: 1px solid transparent;
+    margin-top: 24px;
+}
+
+.github-social-btn:hover {
+    color: #ffffff;
+    background-color: #1c1c1f;
+    border-color: #27272a;
+    transform: translateY(-1px);
+}
+
+.github-icon {
+    width: 20px;
+    height: 20px;
+    fill: currentColor;
+}
