@@ -4,13 +4,6 @@
 
 <h1 align="center">IG Tracker</h1>
 
-<p align="center">
-  A 100% private, local-only Instagram follower analysis tool.
-</p>
-
----
-# IG Tracker
-
 A lightweight, high-precision Instagram followers and following tracking tool written in pure Vanilla JavaScript. Designed to run directly in the browser's developer console, it successfully bypasses modern web API limitations and data masking without relying on invasive visual DOM scraping.
 
 ## 🛠️ How to Use
