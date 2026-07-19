@@ -405,4 +405,4 @@
     document.getElementById('nav-followers').addEventListener('click', () => setView('extractFollowers', 'nav-followers'));
     document.getElementById('nav-following').addEventListener('click', () => setView('extractFollowing', 'nav-following'));
 })();
-//23
+//22
