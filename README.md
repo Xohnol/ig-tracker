@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="favicon.png" alt="IG Tracker Logo" width="120" height="120">
+  <img src="favicon.png" alt="IG Tracker Logo" width="64" style="border-radius: 12px;">
 </p>
 
 <h1 align="center">IG Tracker</h1>
