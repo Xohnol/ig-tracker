@@ -4,6 +4,21 @@
 
 <h1 align="center">IG Tracker</h1>
 
+<p align="center">
+  <!-- Badge in tempo reale -->
+  <img src="https://img.shields.io/github/license/Xohnol/ig-tracker?style=flat-square&color=10b981" alt="License">
+  <img src="https://img.shields.io/github/stars/Xohnol/ig-tracker?style=flat-square&color=3b82f6" alt="Stars">
+  <img src="https://img.shields.io/github/repo-size/Xohnol/ig-tracker?style=flat-square&color=7c3aed" alt="Repo Size">
+</p>
+
+<p align="center">
+  <b>Translations:</b><br>
+  <a href="README.md">English</a> | 
+  <a href="README.it.md">Italiano</a>
+</p>
+
+---
+
 A lightweight, high-precision Instagram followers and following tracking tool written in pure Vanilla JavaScript. Designed to run directly in the browser's developer console, it successfully bypasses modern web API limitations and data masking without relying on invasive visual DOM scraping.
 
 ## 🛠️ How to Use
